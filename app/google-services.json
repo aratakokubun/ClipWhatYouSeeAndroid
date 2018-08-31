@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "434459437882",
+    "firebase_url": "https://clipwhatyousee.firebaseio.com",
+    "project_id": "clipwhatyousee",
+    "storage_bucket": "clipwhatyousee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434459437882:android:b100691d60c72c6f",
+        "android_client_info": {
+          "package_name": "com.kkbnart.clipwhatyousee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434459437882-1vanndjbaurfto3ospdl53ahnvq4c28t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1N-m4XAxM03AZ3bXxGi11A8llcInAbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434459437882:android:c9e0e617b232c769",
+        "android_client_info": {
+          "package_name": "com.kkbnart.cwys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434459437882-1vanndjbaurfto3ospdl53ahnvq4c28t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1N-m4XAxM03AZ3bXxGi11A8llcInAbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
