@@ -18,10 +18,10 @@ import com.wonderkiln.camerakit.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-    val TAG = "MainActivity"
+    private val TAG = "MainActivity"
     lateinit var cameraView: CameraView
     lateinit var cameraButton: Button
-    lateinit var graphicOverlay: GraphicOverlay
+    private lateinit var graphicOverlay: GraphicOverlay
     var recognizedTextBlocks: List<FirebaseVisionText.Block> = arrayListOf()
 
     override fun onCreate(savedInstanceState: Bundle?) {
